@@ -11,5 +11,6 @@ Instagram - <a href="https://www.instagram.com/ananjaemin/?hl=ko">ananjaemin</a>
 
 -----------------------------------------------------------------------------
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananjaemin&layout=compact)](https://github.com/ananjaemin/github-readme-stats)
 
 
