@@ -1,6 +1,6 @@
 <h1> Hi </h1>
 
-05년생, 현 만17세
+age - 18
 
 Discord - Critical#6084 <br>
 Instagram - <a href="https://www.instagram.com/ananjaemin/?hl=ko">ananjaemin</a> <br>
