@@ -22,6 +22,7 @@ Instagram - <a href="https://www.instagram.com/ananjaemin/?hl=ko">ananjaemin</a>
 &nbsp <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 &nbsp <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 &nbsp <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+&nbsp <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
 </div>
 <h2>✏Later Learn Tech✏</h2>
 <div>
