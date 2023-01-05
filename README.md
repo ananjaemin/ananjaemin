@@ -35,7 +35,3 @@ Instagram - <a href="https://www.instagram.com/ananjaemin/?hl=ko">ananjaemin</a>
 <li> 제 5회 한세사이버보안고등학교 교내 해커톤(한세톤) 생활부문 1등
 
 -----------------------------------------------------------------------------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananjaemin&layout=compact)](https://github.com/ananjaemin/github-readme-stats)
-
-
