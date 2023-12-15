@@ -1,5 +1,5 @@
 <h1> Hi </h1>
-age - 18
+05년생
 
 
 Discord - Critical#6084 <br>
