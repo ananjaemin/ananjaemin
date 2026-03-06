@@ -15,7 +15,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nestjs,graphql,prisma,postgres&theme=dark&perline=4"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nestjs,graphql,prisma,postgres&theme=dark&perline=7"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
