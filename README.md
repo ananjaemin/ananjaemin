@@ -1,4 +1,4 @@
-<h1 align="center">Jaemin Ahn</h1>
+<h1 align="center">Jaemin An</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Software+Developer+%F0%9F%9A%80;Good+code+is+read%2C+good+structure+is+felt." alt="Typing SVG" />
@@ -8,8 +8,6 @@
   <a href="https://www.instagram.com/ananjaemin/?hl=ko">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </p>
 
 <br/>
